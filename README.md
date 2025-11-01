@@ -2,6 +2,7 @@
  <!-- ![MasterHead](https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif) -->
 <h1 align="center">Hi 👋, I'm SALIK JAVID</h1>
 <h3 align="center">Full-Stack Developer | AI & Machine Learning Enthusiast | Engineering Student (2027)</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salik-javid&label=Profile%20views&color=0e75b6&style=flat" alt="salik-javid" /> </p>
 
