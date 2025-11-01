@@ -7,19 +7,17 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=salik-javid&label=Profile%20views&color=0e75b6&style=flat" alt="salik-javid" /> </p>
 
-- 🔭 I’m currently working on **AI-Powered Internship Platform**
+## 💫 About Me
 
-- 🌱 I’m currently learning **AI & Ml, Web3, MERN**
+I'm a passionate full stack engineer who loves turning complex problems into elegant solutions. Currently focused on **MERN, AI/ML, Web3**, I thrive on learning new technologies and building impactful projects.
 
+- 🔭 Currently working on: **AI-Powered Internship Platform**
+- 🌱 Learning: **AI & ML,Web3,MERN**
 - 🤝 I’m looking for help with **Web3 Project:NFT Market place**
+- All of my projects are available at [https://salik-portfolio.vercel.app//](https://salik-portfolio.vercel.app//)
+- ⚡ Fun fact: **I spend 10% of my time coding and 90% figuring out why it doesn’t work**
 
-- 👨‍💻 All of my projects are available at [https://salik-portfolio.vercel.app//](https://salik-portfolio.vercel.app//)
-
-- 💬 Ask me about **MERN, AI & ML**
-
-- 💻 How to reach me **Salikjaveeddar@gmail.com**
-
-- ⚡ Fun fact **I spend 10% of my time coding and 90% figuring out why it doesn’t work.**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
