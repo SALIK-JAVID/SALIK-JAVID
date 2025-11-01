@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/7jDMB6n/animated-banner.gif)
+ <img src="https://i.ibb.co/7jDMB6n/animated-banner.gif" alt="MasterHead" />
 <h1 align="center">Hi 👋, I'm SALIK JAVID</h1>
 <h3 align="center">Full-Stack Developer | AI & Machine Learning Enthusiast | Engineering Student (2027)</h3>
 
