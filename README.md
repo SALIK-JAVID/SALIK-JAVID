@@ -8,7 +8,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=salik-javid&label=Profile%20views&color=0e75b6&style=flat" alt="salik-javid" /> </p>
 
 
-About Me:
+
 I'm a passionate full stack engineer who loves turning complex problems into elegant solutions. Currently focused on **MERN, AI/ML, Web3**, I thrive on learning new technologies and building impactful projects.
 
 - 🔭 Currently working on: **AI-Powered Internship Platform**
