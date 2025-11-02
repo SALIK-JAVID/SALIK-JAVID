@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/originals/82/f3/3c/82f33c83e658969547fbce1afda7c1b5.gif" alt="MasterHead" width="100%">
 
-<h1 align="center">Hi 👋, I'm SALIK JAVID</h1>
-<h3 align="center">Full-Stack Developer | AI & Machine Learning Enthusiast | Engineering Student (2027)</h3>
+<h1 align="center">Hi, I'm SALIK JAVID</h1>
+<h3 align="center">Full-Stack Developer | AI & Machine Learning Enthusiast | Engineering Student [ECE] (2027)</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/20/e9/22/20e92227c9b739044e377b3567cfdac0.gif">  
 <!-- change the both animations -->
 
@@ -14,7 +14,7 @@ I'm a passionate full stack engineer who loves turning complex problems into ele
 - 🔭 Currently working on: **AI-Powered Internship Platform**
 - 🌱 Learning: **AI & ML,Web3,MERN**
 - 🤝 I’m looking for help with **Web3 Project:NFT Market place**
-- All of my projects are available at [https://salik-portfolio.vercel.app//](https://salik-portfolio.vercel.app//)
+- All of my projects are available at (https://salik-portfolio.vercel.app//)
 - ⚡ Fun fact: **I spend 10% of my time coding and 90% figuring out why it doesn’t work**
 
 ---
