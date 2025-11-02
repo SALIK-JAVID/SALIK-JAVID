@@ -14,8 +14,8 @@ I'm a passionate full stack engineer who loves turning complex problems into ele
 - 🔭 Currently working on: **AI-Powered Internship Platform**
 - 🌱 Learning: **AI & ML,Web3,MERN**
 - 🤝 I’m looking for help with **Web3 Project:NFT Market place**
-- All of my projects are available at (https://salik-portfolio.vercel.app//)
-- ⚡ Fun fact: **I spend 10% of my time coding and 90% figuring out why it doesn’t work**
+- 💻 All of my projects are available at (https://salik-portfolio.vercel.app//)
+- 😀 Fun fact: **I spend 10% of my time coding and 90% figuring out why it doesn’t work**
 
 ---
 
