@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/20/e9/22/20e92227c9b739044e377b3567cfdac0.gif" alt="MasterHead" width="100%">
+<img src="https://i.pinimg.com/originals/12/7e/f5/127ef50a9e6bc3cbe762cf6d3ae4987e.gif" alt="MasterHead" width="100%">
 
 <h1 align="center">Hi 👋, I'm SALIK JAVID</h1>
 <h3 align="center">Full-Stack Developer | AI & Machine Learning Enthusiast | Engineering Student (2027)</h3>
