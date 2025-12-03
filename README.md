@@ -7,8 +7,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=salik-javid&label=Profile%20views&color=0e75b6&style=flat" alt="salik-javid" /> </p>
 
-
-
 I'm a passionate full stack engineer who loves turning complex problems into elegant solutions. Currently focused on **MERN, AI/ML, Web3**, I thrive on learning new technologies and building impactful projects.
 
 - 🔭 Currently working on: **AI-Powered Internship Platform**
@@ -91,30 +89,8 @@ I'm a passionate full stack engineer who loves turning complex problems into ele
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SALIK-JAVID&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SALIK-JAVID&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SALIK-JAVID&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
 <h3 align="left">Connect with me:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salik-javid/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://salik-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salikjaveeddar@gmail.com)
-
-
-
